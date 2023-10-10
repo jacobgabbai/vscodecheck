@@ -1,0 +1,25 @@
+download git for windows
+
+in the vs code terminal
+
+
+commands
+
+"git config--global user.name jbgabbai"
+"git config--global user.email jbgabbai11@gmail.com"
+
+"git config --list"    -here we need to see the user name and the email
+
+to activet git
+
+"git init"
+
+example
+
+index.html UPDATE 1 ==>stage ==>History Commite
+index.html UPDATE 2 ==>stage ==>History Commite
+
+how we do commite ?
+
+"git add ." -point is saying that we incloude all fils in the folder this will take us to "stage"
+"git commit -m "blablabla" --we add a flage to the files we upload to git . this will take us to History Commit
